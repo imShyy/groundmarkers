@@ -1,1 +1,1 @@
-GrandExchange TestMarkersForGE https://example.com/
+Grand Exchange|Test Markers For GE|https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/ge.txt
