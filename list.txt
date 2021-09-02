@@ -1,1 +1,4 @@
 Grand Exchange>Test Markers For GE>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/ge.txt
+Another test>Test Markers For GE>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/ge.txt
+Even more tests>Test Markers For GE>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/ge.txt
+
