@@ -1,4 +1,12 @@
-Grand Exchange>Test Markers For GE>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/ge.txt
-Another test>Test Markers For GE>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/smiley.txt
-Even more tests>Test Markers For GE>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/ge.txt
-
+Alchemical Hydra - easy>Easy tile markers for Alchemical Hydra>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/hydra_easy.txt
+Alchemical Hydra - advanced>Advanced tile markers for Alchemical Hydra>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/hydra_adv.txt
+Hallowed Sepulchre - floor 1>Hallowed Sepulchre tile markers for floor 1>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/hs_floor_1.txt
+Hallowed Sepulchre - floor 2>Hallowed Sepulchre tile markers for floor 2>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/hs_floor_2.txt
+Hallowed Sepulchre - floor 3>Hallowed Sepulchre tile markers for floor 3>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/hs_floor_3.txt
+Hallowed Sepulchre - floor 4>Hallowed Sepulchre tile markers for floor 4>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/hs_floor_4.txt
+Hallowed Sepulchre - floor 5>Hallowed Sepulchre tile markers for floor 5>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/hs_floor_5.txt
+Fight caves>Safespot for fight caves>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/fight_caves.txt
+Barbarian Assault - Defender>Barbarian Assault Defender tiles>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/ba_defender.txt
+Bandos>Bandos 6:0 range method tiles>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/bandos_6_0.txt
+Zammy>Zammy 5:0 range method tiles>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/zammy_5_0.txt
+Olm>Olm room tile markers>https://raw.githubusercontent.com/imShyy/groundmarkers/main/data/olm.txt
